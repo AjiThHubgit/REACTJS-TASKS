@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu_list {
+    list-style-type: none;
+    text-decoration: none;
+    padding: 5px;
+    margin-left: 5px;
+    font-size: 20px;
+    color: black;
+}
